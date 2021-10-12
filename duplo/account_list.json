@@ -1,10 +1,14 @@
 [
   {
-    "name": "msp",
+    "name": "MSP",
     "url" : "https://msp.duplocloud.net"
   },
   {
-    "name": "qa",
+    "name": "QA",
     "url" : "https://qa.duplocloud.net"
+  },
+  {
+    "name": "DEV",
+    "url" : "https://localhost:4200"
   }
 ]
